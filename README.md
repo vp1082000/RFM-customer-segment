@@ -40,6 +40,7 @@ __Example__: in this project, since we don't have any specific industry characte
 ## Overview
 
 __Business results__:
+
 ![overview2](https://github.com/vp1082000/RFM-customer-segment/assets/143709845/44e68ca1-c587-4283-b1be-c4cddb4465ed)
 
 During the three-year data recording period from December 2009 to December 2011, the business unit served 5942 customers. Throughout this period, a clear trend can be observed each year, with an increasing number of customers in the months of September and October, reaching its peak in November. The main consumed items during this period were gift products and home decorations.
